@@ -1,0 +1,28 @@
+{
+  "name": "teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "jest": "^27.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kembo001/teamProfileGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kembo001/teamProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/kembo001/teamProfileGenerator#readme"
+}
