@@ -8,4 +8,4 @@ This application was created with the basics of OOP and jest. It shows a group o
 - CSS
 - JavaScript
 # Links
-
+- https://github.com/kembo001/teamProfileGenerator.git
